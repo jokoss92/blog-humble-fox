@@ -6,6 +6,7 @@
  .indexHeader {
      text-align: center;
      color: black;
+     padding: 0 100px;
  }
  .indexImageContainer {
      width: 80%;
@@ -23,6 +24,8 @@
      background-color: white;
      border-radius:5px;
      padding: 20 10;
+     margin: 2.5% auto;
+     max-width: 800px;
  }
 
  .indexImage {
