@@ -6,7 +6,7 @@ body{
 .baseContainer{
      background-color: whitesmoke;
      margin: 0 auto;
-     max-width: 80%;
+     max-width: 70%;
      min-width: 320px;
      padding: 2% 5%;
  }
@@ -22,7 +22,7 @@ img {
 p {
      text-align: justify;
      padding: 5px 10px;
-     font-size: 1.2em;
+     font-size: 1.1em;
      line-height: 1.8em;
 }
 
@@ -38,7 +38,7 @@ span {
      color: darkgreen;
 }
 
-@media (max-width: 700px) and (min-width:401px) {
+@media (max-width: 1200px) {
      p {
           font-size: 1em;
      }
