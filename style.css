@@ -62,6 +62,13 @@ body {
      bottom: 0;
  } */
 
-h1 {
-  color: aliceblue;
-}
+ h1{
+     color: aliceblue;
+ }
+
+ form{
+     font-weight: bold;
+     padding: 10px;
+     color: aliceblue;
+     margin-left: 100px;
+ }
