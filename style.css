@@ -1,4 +1,7 @@
- .body-form{
+*{
+    box-sizing: border-box;
+}
+.body-form{
      text-align: center;
      color: aliceblue;
      background-image: url("./img/background-form.jpg");
