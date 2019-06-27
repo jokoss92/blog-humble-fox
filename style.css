@@ -2,6 +2,11 @@
     box-sizing: border-box;
 }
 
+body{
+    background-image: url("img/background-form.jpg");
+
+}
+
  .indexHeader {
      text-align: center;
      color: black;
@@ -17,6 +22,7 @@
  }
  .indexBody {
      background-color: darkgray;
+     
  }
 
  .indexContainer {
