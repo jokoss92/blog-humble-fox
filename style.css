@@ -65,3 +65,10 @@ body{
  h1{
      color: aliceblue;
  }
+
+ form{
+     font-weight: bold;
+     padding: 10px;
+     color: aliceblue;
+     margin-left: 100px;
+ }
