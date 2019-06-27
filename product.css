@@ -1,27 +1,30 @@
-body{
-     background-image: url("img/background-form.jpg");
-     background-size: cover;
+body {
+  background-image: url('img/background-form.jpg');
 }
 
-.baseContainer{
-     background-color: whitesmoke;
-     width: 80%;
-     margin: 0 auto;
-     max-width: 1000px;
-     padding: 2% 5%;
- }
+h1 {
+  text-align: center;
+}
+
+.baseContainer {
+  background-color: whitesmoke;
+  width: 80%;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 2% 5%;
+}
 
 img {
-     width:100%;
+  width: 100%;
 }
 
-.baseContainer, img {
-     border-radius: 5px;
+.baseContainer,
+img {
+  border-radius: 5px;
 }
 
-p {
-     text-align: justify;
-     padding: 5px 10px;
-     font-size: 1.3em;
-     line-height: 1.8em;
+.indexContainer p {
+  text-align: justify;
+  padding: 5px 0;
+  line-height: 1.8em;
 }
