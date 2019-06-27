@@ -6,6 +6,7 @@ input{
     color: aliceblue;
     padding: 5px;
     font-weight: bold;
+    text-align: center;
 }
 
 img{
@@ -14,14 +15,14 @@ img{
     padding: 5px;
 }
 
-.body-form{
+.formContainer {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
     text-align: center;
-    color: aliceblue;
-    background-image: url("./img/background-form.jpg");
 }
-
-h1{
-    font-weight: bold;
+h2{
+    color: aliceblue;
 }
 
 .button{
