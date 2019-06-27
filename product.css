@@ -3,5 +3,13 @@ body{
 }
 
 .baseContainer{
-     background-color: grey;
+     background-color: whitesmoke;
+     width: 80%;
+     margin: 0 auto;
+     max-width: 1000px;
+     padding: 0 5%;
  }
+
+img {
+     width:60%;
+}
