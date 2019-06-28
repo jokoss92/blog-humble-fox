@@ -1,57 +1,59 @@
-*{
-    box-sizing: border-box;
+* {
+  box-sizing: border-box;
 }
 
-body{
-    background-image: url("img/background-form.jpg");
-
+body {
+  background-image: url('img/background-form.jpg');
+  font-family: 'Lato', sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
- .indexHeader {
-     text-align: center;
-     color: black;
-     padding: 0 100px;
- }
- .indexImageContainer {
-     width: 80%;
-     margin: 0 auto;
-     align-content: center;
-     background-color: whitesmoke;
-     padding: 5%;
-     border-radius: 2%;
- }
- .indexBody {
-     background-color: darkgray;
-     
- }
+.indexHeader {
+  text-align: center;
+  color: black;
+  padding: 0 100px;
+}
+.indexImageContainer {
+  width: 80%;
+  margin: 0 auto;
+  align-content: center;
+  background-color: whitesmoke;
+  padding: 5%;
+  border-radius: 2%;
+}
+.indexBody {
+  background-color: darkgray;
+}
 
- .indexContainer {
-     background-color: white;
-     border-radius:5px;
-     padding: 20 10;
-     margin: 2.5% auto;
-     max-width: 800px;
- }
+.indexContainer {
+  background-color: white;
+  border-radius: 5px;
+  padding: 20 10;
+  margin: 2.5% auto;
+  max-width: 800px;
+}
 
- .indexImage {
-     border-radius: 1%;
- }
- .indexSubtitle {
-     text-align: center;
-     font-style: italic;
- }
- .indexH2 {
-     text-align: center;
-     width: 100%;
-     margin: 10 auto;
- }
- .indexPharagraph {
-     width: 80%;
-     text-align: justify;
-     margin: 0 auto;
- }
+.indexImage {
+  border-radius: 1%;
+}
+.indexSubtitle {
+  text-align: center;
+  font-style: italic;
+}
+.indexH2 {
+  text-align: center;
+  width: 100%;
+  margin: 10 auto;
+}
+.indexPharagraph {
+  width: 80%;
+  text-align: justify;
+  margin: 0 auto;
+}
 
- /* footer{
+
+/* footer{
      background : black;
      color: white;
      text-align: center;
