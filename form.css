@@ -1,13 +1,17 @@
 body {
   background-image: url('./img/background-form.jpg');
 }
-input{
-    background: transparent;
-    color: white;
-    padding: 5px;
-    font-weight: bold;
-    text-align: center;
-    border-radius: 5px;
+input {
+  background: transparent;
+  color: white;
+  padding: 5px;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.formContainer {
+  margin-top:5%;
 }
 
 img {
@@ -30,6 +34,10 @@ input[type='email'] {
   width: 200px;
 }
 
+input[type='text'] {
+  width: 200px;
+}
+
 .button {
   border: 1px solid aliceblue;
   background-color: aliceblue;
@@ -42,4 +50,9 @@ input[type='email'] {
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+}
+
+.button:hover {
+  background-color: rgba(55, 55, 55, 1);
+  color: white;
 }
