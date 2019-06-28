@@ -1,9 +1,6 @@
 body{
-  background-image: url("./img/background-form.jpg");
-  
+  background-image: url("./img/background-form.jpg");  
 }
-
-
 
 .body-form{
   text-align: center;
@@ -29,19 +26,17 @@ h1{
 }
 
 .card {
-  /* Add shadows to create the "card" effect */
   box-shadow: 0 4px 8px 0 rgba(0,0,0,1);
   transition: 0.3s;
   padding: 15px 15px 15px 15px;
-
 }
 
-/* On mouse-over, add a deeper shadow */
+
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
-/* Add some padding inside the card container */
+
 .post p {
   font-size: 20px;
 }
