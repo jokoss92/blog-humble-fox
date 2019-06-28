@@ -47,3 +47,8 @@ input[type='text'] {
   margin: 4px 2px;
   cursor: pointer;
 }
+
+.button:hover {
+  background-color: rgba(55, 55, 55, 1);
+  color: white;
+}
